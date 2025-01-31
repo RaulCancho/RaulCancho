@@ -1,16 +1,15 @@
-## Hi there 👋
+# About me 👋
 
-<!--
-**RaulCancho/RaulCancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey everyone, my name is Raul Cancho, and I am a third year Computer Engineering major with a minor in Data Science and Electrical Engineering. I am looking to work with embedded systems and power. 
 
-Here are some ideas to get you started:
+I am from Northern Virginia, but I currently go to school at the University of Virginia. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on learning a dialect.
+- 🌱 I’m currently learning about various embedded systems. 
+- 👯 I’m looking to collaborate on embedded system design, especially in video game systems. 
+- 🤔 I’m looking for help with advancing my knowledge in power
+- 💬 Ask me about Peru, gaming, hardware, and power
+- 📫 How to reach me: mpp9cu@virginia.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I played every Pokemon game
+- 🌎 Languages: English and Spanish
