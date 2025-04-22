@@ -1,6 +1,6 @@
 # About me 👋
 
-Hey everyone, my name is Raul Cancho, and I am a third year Computer Engineering major with a minor in Data Science and Electrical Engineering. I am looking to work with embedded systems and power. 
+Hey everyone, my name is Raul Cancho, and I am a third year Computer Engineering and Electrical Engineering major with a minor in Data Science. I am looking to work with embedded systems and power. 
 
 I am from Northern Virginia, but I currently go to school at the University of Virginia. 
 
